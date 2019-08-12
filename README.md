@@ -46,7 +46,7 @@ $ curl --request POST \
 ["125000000.1359 DAPP"]
 ```
 
-- **regulartrack** balance: `125000000.1359 DAPP`
+- **instanttrack** balance: `125000000.1359 DAPP`
 
 ## 4. DAPP token supply calculations
 
